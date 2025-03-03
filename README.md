@@ -1,7 +1,5 @@
-Assessment Criteria:
-
-
-To achieve a satisfactory result, your assessor will be looking for your ability to demonstrate the following key skills/tasks/knowledge to industry standard:
+# Assessment Criteria:
+## To achieve a satisfactory result, your assessor will be looking for your ability to demonstrate the following key skills/tasks/knowledge to industry standard:
 •	Configure and verify a basic serial WAN configuration
 •	Configure and verify at least two WAN protocols
 •	Configure and apply ACLs based on network filtering requirements
